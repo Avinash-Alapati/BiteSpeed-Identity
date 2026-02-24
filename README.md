@@ -49,4 +49,4 @@ npm run dev
 ```
 
 # Hosted Endpoint
-https://<your-render-url>/identify
+https://bitespeed-identity-o2ab.onrender.com/identify
