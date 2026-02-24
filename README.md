@@ -17,7 +17,8 @@ This project implements the `/identify` API for identity reconciliation as part 
 {
   "email": "string | null",
   "phoneNumber": "string | null"
-} ```
+}
+```
 
 **Response**
 
@@ -29,7 +30,8 @@ This project implements the `/identify` API for identity reconciliation as part 
     "phoneNumbers": ["123456"],
     "secondaryContactIds": [2, 3]
   }
-}```
+}
+```
 
 ### Logic Overview
 
